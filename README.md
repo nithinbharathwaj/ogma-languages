@@ -1,5 +1,3 @@
-# Ogma Languages
+# ogma-languages (moved)
 
-Homepage and privacy policy for the Ogma language apps, served by GitHub Pages.
-
-Contact: ogma.apps@gmail.com
+The Ogma site now lives at https://ogma-apps.github.io/ (repo ogma-apps/ogma-apps.github.io). These pages only redirect there; keep them, because older app builds and store settings link here.
